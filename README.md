@@ -3,7 +3,7 @@ Node-Red with InfluxDb and Grafana by using docker compose and traefik2
 
 
 
-#Thanks
+## Thanks
 Thanks to:
 https://github.com/schtritoff/docker-compose-influxdb-grafana-nodered for base implementation
 and 
